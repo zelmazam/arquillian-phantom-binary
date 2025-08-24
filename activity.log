@@ -93,3 +93,5 @@
 2025-03-11 07:00:00 | WARN | repo=arquillian-phantom-binary | action=commit
 2025-09-20 10:44:00 | WARN | repo=arquillian-phantom-binary | action=commit
 2025-03-20 07:17:00 | DEBUG | repo=arquillian-phantom-binary | action=commit
+2025-06-25 07:32:00 | WARN | repo=arquillian-phantom-binary | action=test | passed=true
+2025-08-24 16:04:00 | WARN | repo=arquillian-phantom-binary | action=commit
